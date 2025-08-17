@@ -6,7 +6,7 @@ import { ServicesPage } from "./pages/Service/ServicesPage";
 import { Portfolio } from "./pages/Portfolio/PortfolioPage";
 import { Blogs } from "./pages/Blogs/Blogs";
 import { Career } from "./pages/Careers/Career";
-import { ContactUs } from "./pages/ContactUs/contactUs";
+import ContactUs from "./pages/contact-us/ContactUs";
 
 function App() {
   return (
