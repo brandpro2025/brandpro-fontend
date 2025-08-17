@@ -5,7 +5,7 @@ export const Management_ReviewPage = () => {
     <div className="p-5 md:p-20 lg:p-5 flex flex-col lg:flex-row items-start w-full bg-black">
       <div className="w-full lg:w-[45%]">
         <img
-          src="../../../public/imgs/home/management_image.webp"
+          src="/imgs/home/management_image.webp"
           alt=""
           className="md:mx-auto"
         />

@@ -53,7 +53,7 @@ export const UnwaveringCommitmentPage = () => {
       <div className="relative w-full flex flex-col lg:flex-row items-center gap-5">
         <div className="w-full lg:w-[35%] h-[370px] rounded-3xl overflow-hidden">
           <img
-            src="../../../public/imgs/home/HOME--MDL-about_image.webp"
+            src="/imgs/home/HOME--MDL-about_image.webp"
             alt=""
             className="w-full h-full rounded-3xl transition-transform duration-500 hover:scale-110"
           />
@@ -61,7 +61,7 @@ export const UnwaveringCommitmentPage = () => {
 
         <div className="w-full lg:w-[65%] h-[370px] rounded-3xl overflow-hidden">
           <img
-            src="../../../public/imgs/home/HOME-F1-about_image_two.webp"
+            src="/imgs/home/HOME-F1-about_image_two.webp"
             alt=""
             className="w-full h-full rounded-3xl transition-transform duration-500 hover:scale-110"
           />
@@ -70,7 +70,7 @@ export const UnwaveringCommitmentPage = () => {
         <div className="absolute top-[320px] lg:top-[120px] lg:left-[465px] flex items-center justify-center">
           <span className="absolute w-24 h-24 rounded-s-2xl rounded-tr-2xl bg-white opacity-30 animate-ripple"></span>
           <img
-            src="../../../public/imgs/home/play-circle.svg"
+            src="/imgs/home/play-circle.svg"
             alt=""
             className=" bg-white p-3 rounded-s-2xl rounded-tr-2xl z-10"
           />
