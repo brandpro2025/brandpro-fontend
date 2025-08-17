@@ -6,7 +6,7 @@ export const SliderPage = () => {
     <div className="w-full flex gap-2 items-center overflow-hidden">
       {sliderImage?.map((item, i) => (
         <div key={i} className="border-2">
-          <img src={`/public/imgs/home/${item?.image}`} alt="" />
+          <img src={`/imgs/home/${item?.image}`} alt="" />
         </div>
       ))}
     </div>

@@ -139,30 +139,30 @@ export const sliderImage = [
 export const events = [
   {
     name: "ProPack Jeddah",
-    logo: "/public/imgs/home/Saudi-Food-Expo.png",
+    logo: "/imgs/home/Saudi-Food-Expo.png",
     venue: "Jeddah International Exhibition & Convention Center",
     date: "Dec 03 to Dec 05, 2025",
     time: "10:00 AM",
     country: "Saudi",
-    badge: "/public/imgs/home/ksa.png",
+    badge: "/imgs/home/ksa.png",
   },
   {
     name: "Automechanika Riyadh 2025",
-    logo: "/public/imgs/home/Automechanika.png",
+    logo: "/imgs/home/Automechanika.png",
     venue: "Riyadh International Exhibitions Center",
     date: "Apr 28 to Apr 30, 2025",
     time: "23:00 PM",
     country: "Saudi",
-    badge: "/public/imgs/home/ksa.png",
+    badge: "/imgs/home/ksa.png",
   },
   {
     name: "Automechanika Riyadh 2025",
-    logo: "/public/imgs/home/Automechanika.png",
+    logo: "/imgs/home/Automechanika.png",
     venue: "Riyadh International Exhibitions Center",
     date: "Apr 28 to Apr 30, 2025",
     time: "23:00 PM",
     country: "Saudi",
-    badge: "/public/imgs/home/ksa.png",
+    badge: "/imgs/home/ksa.png",
   },
 ];
 

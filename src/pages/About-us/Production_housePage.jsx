@@ -54,7 +54,7 @@ export const Production_housePage = () => {
 
         <div className="absolute flex items-center gap-3 lg:gap-5 left-26 top-6 my-4 lg:my-0 lg:-top-13 md:left-72 lg:left-34 bg-black">
           <img
-            src="/public/imgs/home/footer-logo.png"
+            src="/imgs/home/footer-logo.png"
             alt=""
             className="h-7 lg:h-10"
           />
