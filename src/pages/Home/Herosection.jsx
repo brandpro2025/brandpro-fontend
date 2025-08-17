@@ -11,7 +11,7 @@ export const Herosection = () => {
         loop
         muted
         playsInline
-        src="../../../public/videos/tss_adv.mp4"
+        src="/videos/tss_adv.mp4"
       />
       <Navbar />
 
