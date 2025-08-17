@@ -2,7 +2,7 @@ import { Navbar } from "../../components/globals/Navbar";
 import { Global_Herosection } from "../../components/globals/Global_Herosection";
 import { Footer } from "../../components/globals/Footer";
 import { ContactSlider } from "../Home/ContactSlider";
-import { Main } from "./main";
+import { Main } from "./Main";
 
 const ContactUs = () => {
   return (
